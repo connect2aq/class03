@@ -1,0 +1,26 @@
+p
+{
+  color: green;
+}
+
+#para1, #para2
+{
+  color: blue;
+}
+
+#para3
+{
+  color: red;
+}
+
+a{
+  color: green;
+}
+
+.specialpara{
+  color: chartreuse;
+}
+
+a:hover {
+  color: red;
+}
